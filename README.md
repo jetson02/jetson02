@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @jetson02
 - 👀 I’m interested in python & cyber security
 - 🌱 I’m currently learning python, linux, cyber security
-- 💞️ I’m looking to collaborate on a program that will detect the MACs within my wifi 5g range 
-(monitor who came on property as most phones have wifi on always try to connect)
- a beep would be nice. And an exception list would be nice for my own devices and possibly neighbours,
- if I keep getting the same Mac beeping at 9am when they leave the house.
+- 💞️ I’m looking to collaborate on a home safety program that will detect the MACs & as much info as possible of devices (phones) within my wifi 5G range and will notify me
+- It would need a tool to add NACs to exception lists such as family devices, and possible more frequent notify if it doesn't go away or gets closer.
+- This could serve to grab a NAC addy & phone type that broke into your house or car at night
+- Just one more simple thing that help if you dont have security cameras.
 - 📫 How to reach me ...
 
 <!---
